@@ -10,5 +10,5 @@ Each news item has an author, date, and an image.
 * HTML
 * CSS
 
-## I used the Inshorts News API from [public-apis](https://github.com/public-apis/public-apis#news).
+## I used the Inshorts News API from [public-apis](https://github.com/public-apis/public-apis#news)
 
