@@ -1,6 +1,9 @@
 # About
 
-There are 5 news areas in the app. 
+I made the app with a SPA structure. I used a router file, 
+to divide the news by sections and show the corresponding html content.
+
+There are 5 news sections in the app. 
 
 Each news item has an author, date, and an image.
 
